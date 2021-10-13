@@ -50,5 +50,10 @@ Si te gusta el durazno...aguantate la peluza
 >>>>>>> a156d5274262ceaecb2422501127d09c53eb0d22
 =======
 
+<<<<<<< HEAD
 BORRA TOOOODOOOOO JAJAJA
+>>>>>>> Juani
+=======
+DALE BOOOOO DALEE BOOOO DALE BOOOOCA DALEEE BOOOOO
+
 >>>>>>> Juani
