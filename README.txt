@@ -1,7 +1,13 @@
 # practica_github
 mesa 10
+<<<<<<< HEAD
 The best table!!!!
 <<<<<<< HEAD
+=======
+
+"el burro no ... por lindo sino por insistidor ..."
+
+>>>>>>> 6741f61fa47933d9e68095444d92b12c59058e84
 
 =======
 <<<<<<< HEAD
