@@ -1,4 +1,2 @@
 # practica_github
-mesa 10
-The best table!!!!
-Juani mesa 10 
+Si te gusta el durazno...aguantate la peluza 
