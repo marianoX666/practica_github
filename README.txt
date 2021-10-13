@@ -1,3 +1,3 @@
 # practica_github
 
-mariano
+el juani sabe mucho
