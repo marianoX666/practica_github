@@ -1,6 +1,7 @@
 # practica_github
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 <<<<<<< HEAD
@@ -47,3 +48,7 @@ Si te gusta el durazno...aguantate la peluza
 >>>>>>> 670532a0791aba2cb7875fd96caeda10bf06bdb3
 >>>>>>> f1971253c47443d843b6f700757f1aee72722c2e
 >>>>>>> a156d5274262ceaecb2422501127d09c53eb0d22
+=======
+
+BORRA TOOOODOOOOO JAJAJA
+>>>>>>> Juani
