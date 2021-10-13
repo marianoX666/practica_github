@@ -1,4 +1,6 @@
 # practica_github
-mesa 10
-The best table!!!!
 
+<<<<<<< HEAD
+=======
+el juani sabe mucho
+>>>>>>> mariano
