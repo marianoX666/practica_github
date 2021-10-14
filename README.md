@@ -10,6 +10,7 @@ The best table!!!!
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hernan sds
 =======
 
@@ -42,3 +43,7 @@ walter mesa 10
 
 Ahora entendi!!!!
 >>>>>>> 4c8f510947b7564641499e4f194db57b466e5bdd
+=======
+! Vamos de nuevo y bien prolijo...¡
+! Siguiendo las buenas practicas...¡
+>>>>>>> 198a220a132b791295fe3f826344edd09c85d92d
