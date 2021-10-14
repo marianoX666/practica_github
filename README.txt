@@ -1,6 +1,7 @@
 # practica_github
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -58,9 +59,19 @@ Mariano<>>>>>
 >>>>>>> Walterio123
 >>>>>>> 670532a0791aba2cb7875fd96caeda10bf06bdb3
 =======
+=======
+>>>>>>> 090bfd40fe5cbd1fe41ab1273b208db8cd8a1d8a
 mesa 10 
 Todo prolijo para que los profes de Egg no se enojen
 Aqui agrego mi nombre en la lista Olguitaaa
 Aqui agrego mi nombre en la lista Walterio123
 Aqui agrego mi nombre en la lista Mario/Zeta
+<<<<<<< HEAD
 >>>>>>> 198a220a132b791295fe3f826344edd09c85d92d
+=======
+=======
+Aqui agrego mi nombre en la lista Juani10
+
+
+>>>>>>> Juani
+>>>>>>> 090bfd40fe5cbd1fe41ab1273b208db8cd8a1d8a
