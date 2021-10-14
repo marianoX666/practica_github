@@ -1,6 +1,1 @@
-# practica_github
-<<<<<<< HEAD
-mesa 10 
-
-
-Alicia 
+Alicia 159
