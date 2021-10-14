@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 mesa 10 
 Todo prolijo para que los profes de Egg no se enojen
 Aqui agrego mi nombre en la lista Olguitaaa
@@ -14,3 +15,9 @@ Aqui agrego mi nombre en la lista Juani10
 =======
 Walter 10
 >>>>>>> Walterio123
+=======
+mesa 10
+"el burro no ... por lindo sino por insistidor ..."
+
+
+>>>>>>> mario
