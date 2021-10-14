@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 =======
@@ -61,11 +62,15 @@ Mariano<>>>>>
 =======
 =======
 >>>>>>> 090bfd40fe5cbd1fe41ab1273b208db8cd8a1d8a
+=======
+<<<<<<< HEAD
+>>>>>>> 2f94e8f8af138d76cf2648da41ba2511ea9075e3
 mesa 10 
 Todo prolijo para que los profes de Egg no se enojen
 Aqui agrego mi nombre en la lista Olguitaaa
 Aqui agrego mi nombre en la lista Walterio123
 Aqui agrego mi nombre en la lista Mario/Zeta
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 198a220a132b791295fe3f826344edd09c85d92d
@@ -77,8 +82,16 @@ Aqui agrego mi nombre en la lista Mario/Zeta
 >>>>>>> 33541ebf938d908f0bfb8ba038ba77af1cd76e45
 =======
 =======
+>>>>>>> 2f94e8f8af138d76cf2648da41ba2511ea9075e3
+=======
 Aqui agrego mi nombre en la lista Juani10
-
-
 >>>>>>> Juani
->>>>>>> 090bfd40fe5cbd1fe41ab1273b208db8cd8a1d8a
+=======
+Walter 10
+>>>>>>> Walterio123
+=======
+mesa 10
+"el burro no ... por lindo sino por insistidor ..."
+
+
+>>>>>>> mario
