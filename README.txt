@@ -1,4 +1,4 @@
 # practica_github
+Aqui agrego mi nombre en la lista Juani10
 
-DALE BOOOOO DALEE BOOOO DALE BOOOOCA DALEEE BOOOOO
 
