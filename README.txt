@@ -8,18 +8,9 @@ Aqui agrego mi nombre en la lista Olguitaaa
 Aqui agrego mi nombre en la lista Walterio123
 Aqui agrego mi nombre en la lista Mario/Zeta
 <<<<<<< HEAD
-
-
-
-
-=======
 =======
 Aqui agrego mi nombre en la lista Juani10
-
-
 >>>>>>> Juani
->>>>>>> 090bfd40fe5cbd1fe41ab1273b208db8cd8a1d8a
 =======
 Walter 10
-
 >>>>>>> Walterio123
